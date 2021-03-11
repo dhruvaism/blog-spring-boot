@@ -1,0 +1,12 @@
+Blog Application
+- User can create multiple blogs
+- User can have a single profile
+- A blog can have multiple categories
+- A blog can have multiple comments by an user
+API
+- User CRUD
+- Blog CRUD
+- Categories CRUD
+- Blog User Mapping
+- Blog Categories Mapping
+- Comment Blog User Mapping
